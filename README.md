@@ -50,13 +50,14 @@ This project helps students and job seekers understand what skills they need to 
 
 ## 1️⃣ Login Page
 
-![Login Page](images/login.gif)
+![Login Page](analyzer/images/login.gif)
+
 
 
 
 ## 2️⃣ Resume Upload Page
 
-![Upload Page](images/upload.png)
+![Upload Page](analyzer/images/upload.png)
 
 
 
@@ -67,7 +68,7 @@ Shows:
 - Skills You Should Have
 - Missing Skills
 
-![Skill Analysis](images/result.png)
+![Skill Analysis](analyzer/images/result.png)
 
 
 ## 4️⃣ Dashboard
@@ -77,7 +78,7 @@ Displays:
 - User Insights
 - Skill Comparison Overview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](analyzer/images/dashboard.png)
 
 
 # ⚙️ Installation Guide
