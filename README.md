@@ -50,7 +50,7 @@ This project helps students and job seekers understand what skills they need to 
 
 ## 1️⃣ Login Page
 
-![Login Page](images/login.png)
+![Login Page](images/login.gif)
 
 
 
