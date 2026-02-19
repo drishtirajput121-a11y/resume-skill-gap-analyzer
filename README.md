@@ -43,32 +43,12 @@ This project helps students and job seekers understand what skills they need to 
 ✔ Dashboard Visualization  
 ✔ Clean and Responsive UI  
 
-
-# Application Screenshots
-
-
-
-## 1️⃣ Login Page
-
-![Login Page](analyzer/images/login.gif)
-
-
-
-
-## 2️⃣ Resume Upload Page
-
-![Upload Page](analyzer/images/upload.png)
-
-
-
 ## 3️⃣ Skill Analysis Result
 
 Shows:
 - Skills You Have
 - Skills You Should Have
 - Missing Skills
-
-![Skill Analysis](analyzer/images/result.png)
 
 
 ## 4️⃣ Dashboard
@@ -78,7 +58,6 @@ Displays:
 - User Insights
 - Skill Comparison Overview
 
-![Dashboard](analyzer/images/dashboard.png)
 
 
 # ⚙️ Installation Guide
